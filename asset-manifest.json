@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aerodrome-lookup/static/css/main.21d29adb.css",
+    "main.js": "/aerodrome-lookup/static/js/main.7c529738.js",
+    "index.html": "/aerodrome-lookup/index.html",
+    "main.21d29adb.css.map": "/aerodrome-lookup/static/css/main.21d29adb.css.map",
+    "main.7c529738.js.map": "/aerodrome-lookup/static/js/main.7c529738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d29adb.css",
+    "static/js/main.7c529738.js"
+  ]
+}
